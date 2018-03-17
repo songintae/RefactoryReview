@@ -1,4 +1,4 @@
-package Chapter1BackUp;
+package Chapter1.before;
 
 public class Rental {
 	private Movie _movie;

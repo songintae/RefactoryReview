@@ -1,4 +1,4 @@
-package Chapter1;
+package Chapter1.after;
 
 public class Movie {
 	public static final int CHILDERNS = 2;

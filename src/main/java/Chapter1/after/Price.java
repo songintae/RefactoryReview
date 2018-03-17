@@ -1,4 +1,4 @@
-package Chapter1;
+package Chapter1.after;
 
 public abstract class Price {
 	abstract int getPriceCode();

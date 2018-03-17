@@ -1,4 +1,4 @@
-package Chapter1BackUp;
+package Chapter1.before;
 
 public class Movie {
 	public static final int CHILDERNS = 2;
